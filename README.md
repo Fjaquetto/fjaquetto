@@ -19,8 +19,9 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fjaquetto&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaquetto&layout=compact&langs_count=7&theme=bear"/></a>
 </div>
-
+<br>
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-jaquetto-32a525122/">
-      <img height="30em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
+      <img height="15em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
 </div>
