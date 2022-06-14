@@ -21,4 +21,6 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fjaquetto&layout=compact&langs_count=7&theme=bear"/></a>
 </div>
 
+<div align="center">
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-jaquetto-32a525122/)
+</div>
