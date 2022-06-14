@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-jaquetto-32a525122/">
-      <img height="15em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
+      <img height="23em" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/>
 </div>
